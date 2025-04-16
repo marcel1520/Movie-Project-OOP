@@ -1,0 +1,266 @@
+{
+    "12 Angry Men": {
+        "title": "12 Angry Men",
+        "release_year": 1957,
+        "rating": 8.9,
+        "genre": "update movie to add genre",
+        "poster": "update movie to add poster",
+        "runtime": "update movie to add runtime"
+    },
+    "The Godfather": {
+        "title": "The Godfather",
+        "release_year": 1972,
+        "rating": 9.2,
+        "genre": "update movie to add genre",
+        "poster": "update movie to add poster",
+        "runtime": "update movie to add runtime"
+    },
+    "The Godfather: Part II": {
+        "title": "The Godfather: Part II",
+        "release_year": 1974,
+        "rating": 9.0,
+        "genre": "update movie to add genre",
+        "poster": "update movie to add poster",
+        "runtime": "update movie to add runtime"
+    },
+    "Halloween": {
+        "title": "Halloween",
+        "release_year": 1978,
+        "rating": 8.0,
+        "genre": "Horror, Thriller",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzZiNTdiYTgtYjNkMS00MmJmLWEwZGQtNmY0NGJkMGE0YmYzXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "91 min"
+    },
+    "Star Wars: Episode V": {
+        "title": "Star Wars: Episode V",
+        "release_year": 1980,
+        "rating": 8.7,
+        "genre": "update movie to add genre",
+        "poster": "update movie to add poster",
+        "runtime": "update movie to add runtime"
+    },
+    "The Terminator": {
+        "title": "The Terminator",
+        "release_year": 1984,
+        "rating": 8.1,
+        "genre": "Action, Adventure, Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "107 min"
+    },
+    "Schindler's List": {
+        "title": "Schindler's List",
+        "release_year": 1993,
+        "rating": 8.9,
+        "genre": "Biography, Drama, History",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "195 min"
+    },
+    "The Shawshank Redemption": {
+        "title": "The Shawshank Redemption",
+        "release_year": 1994,
+        "rating": 9.5,
+        "genre": "Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "142 min"
+    },
+    "Pulp Fiction": {
+        "title": "Pulp Fiction",
+        "release_year": 1994,
+        "rating": 9.5,
+        "genre": "Crime, Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "154 min"
+    },
+    "Forrest Gump": {
+        "title": "Forrest Gump",
+        "release_year": 1994,
+        "rating": 8.8,
+        "genre": "Drama, Romance",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "142 min"
+    },
+    "Starship Troopers": {
+        "title": "Starship Troopers",
+        "release_year": 1999,
+        "rating": 8.1,
+        "genre": "Action, Adventure, Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTNiOGM1ZWUtZTZjZC00OWJmLWE2YzUtZjQ4ODZjZmVlMDU3XkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "129 min"
+    },
+    "The Room": {
+        "title": "The Room",
+        "release_year": 2003,
+        "rating": 3.6,
+        "genre": "Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYmNkMThiODYtZTAzMC00ODJkLTg5MmEtMWIyMGFlZDlkYmNlXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "update movie to add runtime"
+    },
+    "The Dark Knight": {
+        "title": "The Dark Knight",
+        "release_year": 2008,
+        "rating": 9.0,
+        "genre": "Action, Crime, Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+        "runtime": "152 min"
+    },
+    "Everything Everywhere All At Once": {
+        "title": "Everything Everywhere All At Once",
+        "release_year": 2022,
+        "rating": 8.9,
+        "genre": "Action, Adventure, Comedy",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOWNmMzAzZmQtNDQ1NC00Nzk5LTkyMmUtNGI2N2NkOWM4MzEyXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "139 min"
+    },
+    "Escape from New York": {
+        "title": "Escape from New York",
+        "release_year": 1981,
+        "rating": 8.6,
+        "genre": "Action, Adventure, Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTUzMTY0Nzg0MV5BMl5BanBnXkFtZTgwMDU3MzQxMDE@._V1_SX300.jpg",
+        "runtime": "99 min"
+    },
+    "Terminator 2": {
+        "title": "Terminator 2",
+        "release_year": 1991,
+        "rating": 8.0,
+        "genre": "Action, Adventure, Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGMyMGNkMDUtMjc2Ni00NWFlLTgyODEtZTY2MzBiZTg0OWZiXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "update movie to add runtime"
+    },
+    "Prince of Darkness": {
+        "title": "Prince of Darkness",
+        "release_year": 1987,
+        "rating": 6.7,
+        "genre": "Horror",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDYwOThiMDgtMjMyNC00ODY2LTkwNDMtZjJlNWJiN2IyNDliXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "102 min"
+    },
+    "Jurassic Park": {
+        "title": "Jurassic Park",
+        "release_year": 1993,
+        "rating": 8.2,
+        "genre": "Action, Adventure, Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
+        "runtime": "127 min"
+    },
+    "Jackie Brown": {
+        "title": "Jackie Brown",
+        "release_year": 1997,
+        "rating": 7.5,
+        "genre": "Crime, Drama, Thriller",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmUxZjY3MDktNGI5NS00MTQ5LWE0YWItZWQzNmZhNjhkZDYyXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "update movie to add runtime"
+    },
+    "Training Day": {
+        "title": "Training Day",
+        "release_year": 2001,
+        "rating": 7.8,
+        "genre": "Crime, Drama, Thriller",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "update movie to add runtime"
+    },
+    "Jaws": {
+        "title": "Jaws",
+        "release_year": 1975,
+        "rating": 8.1,
+        "genre": "Adventure, Drama, Horror",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "124 min"
+    },
+    "Total Recall": {
+        "title": "Total Recall",
+        "release_year": 1990,
+        "rating": 7.5,
+        "genre": "Action, Adventure, Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZjRlMzBkOGMtMTA1Ny00ZWI4LTkzMDItOGVkNWJkN2E4ZTkwXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "113 min"
+    },
+    "The Omen": {
+        "title": "The Omen",
+        "release_year": 1976,
+        "rating": 7.5,
+        "genre": "Horror, Mystery",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTgxNjY0OTEtYWExOC00OWJiLWEzY2ItNzNjYTY0YjhjNjlhXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "111 min"
+    },
+    "For a few Dollars more": {
+        "title": "For a few Dollars more",
+        "release_year": 1967,
+        "rating": 8.2,
+        "genre": "Drama, Western",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTRmOTcyYmYtMTIwNi00ZGYyLTk4YjYtZGJlZTgwZGY0NGQyXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "132 min"
+    },
+    "A Fistful of Dollars": {
+        "title": "A Fistful of Dollars",
+        "release_year": 1967,
+        "rating": 7.9,
+        "genre": "Drama, Western",
+        "poster": "https://m.media-amazon.com/images/M/MV5BM2ZkYWU1MGQtMzM3MC00ODQ5LWE1ZGQtMDM5YjczZDZhMjg5XkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "99 min"
+    },
+    "There will be Blood": {
+        "title": "There will be Blood",
+        "release_year": 2008,
+        "rating": 8.2,
+        "genre": "Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_SX300.jpg",
+        "runtime": "158 min"
+    },
+    "No Country for old Men": {
+        "title": "No Country for old Men",
+        "release_year": 2007,
+        "rating": 8.2,
+        "genre": "Crime, Drama, Thriller",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_SX300.jpg",
+        "runtime": "122 min"
+    },
+    "American Ninja": {
+        "title": "American Ninja",
+        "release_year": 1985,
+        "rating": 5.4,
+        "genre": "Action, Adventure, Romance",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZWQ1NzY1ZWYtZWU3My00NzhjLWIyOGMtOGI2ZDA4NjA5ZjM5XkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "95 min"
+    },
+    "American Ninja 2": {
+        "title": "American Ninja 2",
+        "release_year": 1987,
+        "rating": 4.9,
+        "genre": "Action, Comedy, Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjM1MjU0ZTYtNDA4NS00MWI2LWE3ZDctZDU0Mjc5OWYyNDNjXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "90 min"
+    },
+    "The Thing": {
+        "title": "The Thing",
+        "release_year": 1982,
+        "rating": 8.2,
+        "genre": "Horror, Mystery, Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTA3NDU5MWEtNTk4Yy00ZDNkLThmZTQtMjU3ZGVhYzAyMzU4XkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "109 min"
+    },
+    "Big trouble in little China": {
+        "title": "Big trouble in little China",
+        "release_year": 1986,
+        "rating": 7.2,
+        "genre": "Action, Adventure, Comedy",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWNjZDQyMjUtZDEzZC00OThhLTg1NWItOTQ1MWI3ODBlODcyXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "99 min"
+    },
+    "Cape Fear": {
+        "title": "Cape Fear",
+        "release_year": 1991,
+        "rating": 7.3,
+        "genre": "Crime, Thriller",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "128 min"
+    },
+    "Bloodsport": {
+        "title": "Bloodsport",
+        "release_year": 1988,
+        "rating": 6.8,
+        "genre": "Action, Biography, Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNmRkMGNkZWYtNzk3ZC00OGM0LThjMzMtMDg2YzViMTJmNjNhXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "92 min"
+    }
+}

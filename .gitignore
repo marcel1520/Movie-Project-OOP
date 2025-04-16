@@ -1,0 +1,6 @@
+.env
+Omdb.py
+storage_csv.py
+film_database.csv
+.idea/
+__pycache__/

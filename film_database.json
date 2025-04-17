@@ -35,9 +35,9 @@
         "title": "Star Wars: Episode V",
         "release_year": 1980,
         "rating": 8.7,
-        "genre": "update movie to add genre",
-        "poster": "update movie to add poster",
-        "runtime": "update movie to add runtime"
+        "genre": "Action, Adventure, Fantasy",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "124 min"
     },
     "The Terminator": {
         "title": "The Terminator",
@@ -262,5 +262,21 @@
         "genre": "Action, Biography, Drama",
         "poster": "https://m.media-amazon.com/images/M/MV5BNmRkMGNkZWYtNzk3ZC00OGM0LThjMzMtMDg2YzViMTJmNjNhXkEyXkFqcGc@._V1_SX300.jpg",
         "runtime": "92 min"
+    },
+    "Drunken Master": {
+        "title": "Drunken Master",
+        "release_year": 1978,
+        "rating": 7.4,
+        "genre": "Action, Comedy",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMGVjNzA2Y2QtNzNlOC00ODE2LWE3NDEtMzE4NzUwNjdhZWQzXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "111 min"
+    },
+    "Rumble in the Bronx": {
+        "title": "Rumble in the Bronx",
+        "release_year": 1996,
+        "rating": 6.8,
+        "genre": "Action, Comedy, Crime",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNWUxMDcyZTMtYzJjMi00Y2Q1LWE3NWMtNTRiNGQxZTljYjE2XkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "87 min"
     }
 }

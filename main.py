@@ -20,7 +20,7 @@ def main():
             except TypeError:
                 print("csv storage not active. Press (0) to exit.")
                 continue
-        elif storage_options != "1" or storage_options != "2":
+        else:
             break
             # csv storage is not yet activated
 

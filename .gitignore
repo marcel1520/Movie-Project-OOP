@@ -1,6 +1,5 @@
 .env
 Omdb.py
-storage_csv.py
-film_database.csv
+Omdb1.py
 .idea/
 __pycache__/

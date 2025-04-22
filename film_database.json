@@ -278,5 +278,141 @@
         "genre": "Action, Comedy, Crime",
         "poster": "https://m.media-amazon.com/images/M/MV5BNWUxMDcyZTMtYzJjMi00Y2Q1LWE3NWMtNTRiNGQxZTljYjE2XkEyXkFqcGc@._V1_SX300.jpg",
         "runtime": "87 min"
+    },
+    "Night Angel": {
+        "title": "Night Angel",
+        "release_year": 1990,
+        "rating": 4.4,
+        "genre": "Horror",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZGY3NDc2ZTMtNGNmZi00NGRlLTg1OGUtMjFmMDUxNmFiOTU3XkEyXkFqcGdeQXVyNTA0OTU0OTQ@._V1_SX300.jpg",
+        "runtime": "88 min"
+    },
+    "Nightwing": {
+        "title": "Nightwing",
+        "release_year": 1979,
+        "rating": 5.2,
+        "genre": "Horror",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNDJjMTBkZmUtOGI2Mi00NzA1LTg1OGQtOTUyM2E4Y2Q3ZDRhXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "105 min"
+    },
+    "Raiders of the living Dead": {
+        "title": "Raiders of the living Dead",
+        "release_year": 1986,
+        "rating": 2.6,
+        "genre": "Horror",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzlkNTM4MTQtYTIzMi00ZWFhLTlhYTYtOGJhMWQwNTc4NjE0XkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "86 min"
+    },
+    "Hound of the Baskervilles": {
+        "title": "Hound of the Baskervilles",
+        "release_year": 1959,
+        "rating": 6.9,
+        "genre": "Horror, Mystery",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjY0YjJmYzMtYWEyMi00NDE0LWE3OTYtMmNlYzNiZDVlNDc3XkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "87 min"
+    },
+    "The Godfather Part III": {
+        "title": "The Godfather Part III",
+        "release_year": 1990,
+        "rating": 7.6,
+        "genre": "Crime, Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDVjODgzNTEtNjBiNS00ODBjLWEwZjUtMDljZTFhOTA4M2MxXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "162 min"
+    },
+    "Angel Heart": {
+        "title": "Angel Heart",
+        "release_year": 1987,
+        "rating": 7.2,
+        "genre": "Horror, Mystery, Thriller",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGNiN2ZjNDQtZjEyNS00ZGFjLWE4YWQtMDczZjU1ZDFlZDhlXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "113 min"
+    },
+    "Homeboy": {
+        "title": "Homeboy",
+        "release_year": 1988,
+        "rating": 5.8,
+        "genre": "Crime, Drama, Romance",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMzg5YjlkZmUtYTg0My00Y2MyLTg2NTYtNjY5ZWNmZmJmODlmXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "116 min"
+    },
+    "Snatch": {
+        "title": "Snatch",
+        "release_year": 2001,
+        "rating": 8.2,
+        "genre": "Comedy, Crime",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzk5NjJkMTQtN2IyNC00YWM5LTlhZmMtNGI3MWNhMTU1YTc4XkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "102 min"
+    },
+    "Name of the Rose": {
+        "title": "Name of the Rose",
+        "release_year": 2003,
+        "rating": 2.9,
+        "genre": "Action, Short, Crime",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZTY4NDBiNTMtNGY0ZC00NzUxLWJiMTctN2MwZjM3ZjEwNDM2XkEyXkFqcGdeQXVyMjc2MzA3ODM@._V1_SX300.jpg",
+        "runtime": "25 min"
+    },
+    "Dracula": {
+        "title": "Dracula",
+        "release_year": 1992,
+        "rating": 7.4,
+        "genre": "Fantasy, Horror, Romance",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMmVhNzhlMzMtYjJkNy00ODU4LWJmMjUtYzdlMGI3MTQ3YzBhXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "128 min"
+    },
+    "The Fog": {
+        "title": "The Fog",
+        "release_year": 1980,
+        "rating": 6.8,
+        "genre": "Horror, Thriller",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYWVlMmM5YmMtZGJkYy00ODgxLTgyNTctYzM2MTYwZDRkYTJmXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "89 min"
+    },
+    "From beyond the Grave": {
+        "title": "From beyond the Grave",
+        "release_year": 1975,
+        "rating": 6.6,
+        "genre": "Drama, Fantasy, Horror",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDExZjA3ZGUtOGVmYy00OTk2LWE4ZTAtNGUxYmFlM2I0MmYxXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "97 min"
+    },
+    "American Ninja 4": {
+        "title": "American Ninja 4",
+        "release_year": 1991,
+        "rating": 4.0,
+        "genre": "Action, Crime, Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMjQyYWEwOTUtYmMzMi00MzFlLTkyYWItZDMxMzRhMTFmMjEzXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "99 min"
+    },
+    "Independence Day": {
+        "title": "Independence Day",
+        "release_year": 1996,
+        "rating": 7.0,
+        "genre": "Action, Adventure, Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOGMwN2UwZjEtYjFjMi00ZDA1LWJlYTQtMjA1MTYxMzIyNTdiXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "145 min"
+    },
+    "Kafka": {
+        "title": "Kafka",
+        "release_year": 1992,
+        "rating": 6.8,
+        "genre": "Drama, Mystery, Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BZmRmZDAzMTktNzNhMy00YTZkLThhZDItMmNjNTFmZGIyNjk3XkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "98 min"
+    },
+    "The Uncanny": {
+        "title": "The Uncanny",
+        "release_year": 1978,
+        "rating": 5.7,
+        "genre": "Horror",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYzNjNWNkZWYtNjUyYi00MWIwLTg0MDgtOWFlYjc1OGZjNDM5XkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "89 min"
+    },
+    "Uninvited": {
+        "title": "Uninvited",
+        "release_year": 1988,
+        "rating": 4.3,
+        "genre": "Horror, Sci-Fi",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3ZGI4ZmUtOTg1My00ZTgzLTkwMjUtZjM3ZTkyYjliMWEzXkEyXkFqcGdeQXVyMTk5MjAyMjM@._V1_SX300.jpg",
+        "runtime": "91 min"
     }
 }

@@ -17,6 +17,7 @@ def main():
                 storage.save_movie()
                 movie_app = MovieApp(storage)
                 movie_app.run()
+                storage.create_html()
             except TypeError:
                 print("csv storage not active. Press (0) to exit.")
                 continue

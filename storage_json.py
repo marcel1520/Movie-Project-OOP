@@ -9,8 +9,8 @@ from requests.exceptions import ConnectionError, Timeout, RequestException
 
 
 class StorageJson(IStorage):
-    # load_dotenv(".env")
-    api_key = "12433447"  # os.getenv("API_KEY")
+    load_dotenv(".env")
+    api_key = os.getenv("API_KEY")
     base_url = f"http://www.omdbapi.com/?apikey={api_key}"
 
     def __init__(self, file_path="film_database.json"):

@@ -414,5 +414,13 @@
         "genre": "Horror, Sci-Fi",
         "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3ZGI4ZmUtOTg1My00ZTgzLTkwMjUtZjM3ZTkyYjliMWEzXkEyXkFqcGdeQXVyMTk5MjAyMjM@._V1_SX300.jpg",
         "runtime": "91 min"
+    },
+    "The Crow": {
+        "title": "The Crow",
+        "release_year": 1994,
+        "rating": 7.5,
+        "genre": "Action, Crime, Drama",
+        "poster": "https://m.media-amazon.com/images/M/MV5BOTBiNzhkZTItZWUwZS00YTJkLTg0YTEtN2I0ZDI5ODI2MWFjXkEyXkFqcGc@._V1_SX300.jpg",
+        "runtime": "102 min"
     }
 }

@@ -23,7 +23,7 @@ def main():
                 continue
         else:
             break
-            # csv storage is not yet activated
+
 
 if __name__ == "__main__":
     main()
